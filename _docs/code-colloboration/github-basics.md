@@ -17,6 +17,7 @@ GitHub allows you to:
 - keep a copy of your code repository on a remote server for safe keeping
 - easily share your code project with other people
 - contribute to other people's code projects
+- perform automated Continuous Integration (CI) tasks
 - and more!
 
 For example, this is our GitHub organization for the MDI project.
@@ -35,8 +36,7 @@ concepts of GitHub. Take a look through the ones you find most useful:
 > Beginners often think that Git and GitHub are the "same thing". 
 > They are not - you do not need GitHub to use Git. 
 > Git is a version control system. 
-> GitHub is a resource server that uses Git (among others like
-> GitLab and BitBucket).
+> GitHub is a resource server that uses Git (among others).
 
 ## Get started with GitHub
 
@@ -57,7 +57,7 @@ Learn more, and create your PAT here:
 
 ###  Log in to GitHub in VS Code
 
-As mentioned, VS Code and Git/GitHub play together very nicely.
+As mentioned, VS Code and Git/GitHub play together nicely.
 Please open VS Code and find the "Accounts" icon toward the bottom of
 the leftmost sidebar and use it to log in to your GitHub account.
 

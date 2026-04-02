@@ -15,19 +15,12 @@ It helps you write accurate, working code without bugs,
 to follow best practices of code style, to quickly see
 the results of your work, and more.
 
-People speak of using an **Integrated Development Environment (IDE)**,
-where a code editor is one part of the IDE's set of tools
-for code development. We don't need to worry about exactly what 
-makes an "editor" become an "IDE".
-
 ## Visual Studio Code
 
-There are many editors/IDEs and you may already 
-have a preference. You don't need to switch if you 
-use Atom, R Studio, Komodo or something else. However, the "official"
-editor/IDE used by the MDI is **Visual Studio Code (VS Code)** and you will have
-the best experience integrating with others if you use it. It is 
-the most common editor in use today and well supported. 
+There are many code editors and you may already 
+have a preference. However, MDI developers use **Visual Studio Code (VS Code)** 
+and you will have the best experience integrating with others if you use it. 
+It is the most common editor in use today and well supported. 
 
 {% include figure.html file="code-editor/vs-code.png" border=true %}
 
@@ -37,9 +30,23 @@ You'll find everything you need to get started with VS Code here:
 
 <https://code.visualstudio.com/>
 
->When you install VS Code, you will have a chance to choose your color
->theme. If you are new to writing code, hardcore developers tend to use 
->dark themes, but it is your choice.
+### AI/LLM support
+
+It is essential that you make use of Large Language Models (LLMs)
+the provide Artificial Intelligence (AI) assistance as you write code,
+to learn faster and become more efficient.
+
+Fortunately, VS Code has implicit and extensive built-in AI support.
+In addition to offering AI-assisted code completion, you can open a chat window
+by clicking and icon at the top of the window.
+
+Of course, you can also ask questions of any AI engine on the internet that you
+choose, including Gemini, ChatGPT, Perplexity, and others.
+
+Throughout, your goal is NOT to have AI write code that you don't understand!
+The goal is to have it teach you how code works so that together you can write more
+quickly. Ask it questions to explain what you don't understand, and create
+prompts that force you to describe what you seek in concrete, programmatic terms.
 
 ### Extensions
 
@@ -54,10 +61,7 @@ to be very useful. We'll mention these again when you need them, but it
 won't hurt you to find and install them now. Here's a good list to start with. 
 
 - **Remote - SSH**, by Microsoft
-- **GitHub Pull Requests and Issues**, by GitHub
 - **Code Spell Checker**, by Street Side Software 
 - **R**, by REditorSupport  
 - **YAML**, by Red Hat  
-- **perl-syntax**, by Jack Karamanian  
-
-> There are often many extensions for the same languages, be sure to get the exact ones mentioned above.
+- **perl-syntax**, by Jack Karamanian

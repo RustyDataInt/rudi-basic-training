@@ -130,11 +130,4 @@ ls -l ~/mdi-exercises/output/do/*.zip
 -rw-rw-r-- 1 user user 2769 Jun  2 11:57 /home/user/mdi-exercises/output/do/do.demo.do.mdi.package.zip
 ```
 
-Please download that data package to your desktop or laptop computer.
-Then, upload it into the demo Stage 2 App you will find here:
-
-- <https://mdi-demo.wilsonte-umich.io/>
-- access key = **mdi-demo**
-
-Play around in the app to see if it reflects your expectation of the demo
-pipeline and the job configuration file you wrote.
+Later on, you could load that file once your have an apps server running.

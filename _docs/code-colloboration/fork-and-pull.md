@@ -30,7 +30,7 @@ is a public repo distributed under the CC BY-NC 4.0 license.
 
 ### Learn the basics
 
-As always, there are many internet resources to help you understand
+There are many internet resources to help you understand
 forking and pulling into a git code repository.
 
 - <https://www.google.com/search?q=git+fork+and+pull>
@@ -46,5 +46,3 @@ The concepts you want to understand are that:
     - make a "pull request" to the project maintainers to have their code incorporated into the definitive repository
 
 {% include figure.html file="git/fork-and-pull.png" width="400px" %}
-
-The next Exercise will walk you through these steps.

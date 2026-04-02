@@ -7,14 +7,14 @@ nav_order: 50
 
 ## {{ page.title }}
 
-Congratulations! You now have all the 
+Congratulations! You now have the 
 basic skills and tools in place to work on a collaborative code
 project like the MDI. 
 
 There is one more wrinkle we need to introduce to improve the
-way you work in the Fork & Pull model. Specifically, Git (and
-thus GitHub) can actually have multiple running versions of a codebase
-within a single repository. These versions are called "branches".
+way you work. Specifically, Git (and thus GitHub) can actually have 
+multiple running versions of a codebase within a single repository. 
+These versions are called "branches".
 
 {% include figure.html file="git/branching.png" %}
 
@@ -42,9 +42,8 @@ can switch to a new branch.
 
 ### Contributing to the MDI Basic Training documentation
 
-You are now fully ready to help us write these
-Basic Training pages. If there
-are things you'd like to see incorporated, you should:
+You are now fully ready to help us write these Basic Training pages. 
+If there are things you'd like to see incorporated, you should:
 
 - Create a new branch in your local repository with a short, helpful name
 - Add or edit content as needed

@@ -9,10 +9,9 @@ nav_order: 0
 <!-- please do not alter the next line -->
 {% include mdi-project-overview.md %}
 
-
 **{{ site.title }}** provides information and links to resources to 
 help beginners build essential skills for participating in MDI code 
-use and  development.
+use and development.
 
 ### Learn about the MDI
 
@@ -24,14 +23,12 @@ working through this Basic Training.
 
 ### Exercises
 
-Some pages contain practical exercises to work through. 
-Completing these tasks is optional (unless you are a student working on the 
-MDI Project). You will find them easy if you 
-are an experienced developer, in which case you can go directly to 
-learning about and using the MDI.
+Some pages contain optional exercises to work through. 
+You will find them easy if you are an experienced developer, in which case 
+you can go directly to learning about and using the MDI.
 
-In the exercises, we will provide essential information and structured
-tasks, but we will not spoonfeed every command to you verbatim.
+In the exercises, we provide essential information and structured
+tasks, but do will not spoonfeed every command verbatim.
 We expect you to quickly start _learning how to learn_ to code, 
 which means you have to read documentation and use the internet
 to discover things for yourself. When you get stuck, ask!
